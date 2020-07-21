@@ -1,0 +1,22 @@
+.list{
+	color: #fff;
+	width: 320px;
+	background-color: #bf07ac;
+	height: 40px;
+	margin: 20px auto;
+	border-radius: 5px;
+	text-align: left;
+	
+
+}
+
+.list p{
+	padding-top: 5px;
+	padding-left: 10px;
+	position: relative;
+}
+.del{
+	height: 30px;
+	position: absolute;
+	right: 10px;
+}
